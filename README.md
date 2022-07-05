@@ -1,6 +1,11 @@
 # black-backend
+
+# 타입
+https://docs.python.org/3/library/stdtypes.html#type-annotation-types-generic-alias-union
+
 # 보안
 https://github.com/shieldfy/API-Security-Checklist
+
 
 
 # ref)

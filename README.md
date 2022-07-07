@@ -2,6 +2,7 @@
 
 # 테스트
 정확한 용어 알고 사용하기
+cf) https://docs.python.org/3/library/unittest.html
 
 - test fixture
 > A test fixture represents the preparation needed to perform one or more tests, and any associated cleanup actions. This may involve, for example, creating temporary or proxy databases, directories, or starting a server process.
